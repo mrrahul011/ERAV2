@@ -17,7 +17,7 @@ the file contain following utility: \
 
 **GetCorrectPredCount** \
 **train** \
-**test** \
+**test** 
 
 
 
