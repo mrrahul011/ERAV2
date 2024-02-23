@@ -13,6 +13,13 @@ The utils.py can be uploaded at line number 32 and the same is imported in line 
 the model.py contain the definition of the network
 
 # utils.py
-the file contain following utility:
+the file contain following utility: \
+
+**GetCorrectPredCount** \
+**train** \
+**test** \
+
+
+
 
 
