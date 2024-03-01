@@ -6,6 +6,7 @@ This repository contains files related to Part 1 of the assignment.
 
 - **File**: [bp_part1_rahul_mr.xlsx](bp_part1_rahul_mr.xlsx)
 - This Excel file contains a graph of loss.
+- ![BP](https://github.com/mrrahul011/ERAV2/blob/main/Session%206/Part%201/bp.png).
 
 ## Steps for Creating the Excel Sheet
 
