@@ -5,7 +5,7 @@ The neural network consists of 7 layers.
 
 ## Layer Descriptions
 
-### Layer 1
+### Block 1
 - **Convolutional layer**: `self.conv1_1`
 - **ReLU activation**: `self.relu1_1`
 - **Batch normalization**: `self.bn1_1`
@@ -18,7 +18,7 @@ The neural network consists of 7 layers.
 - **Max pooling**: `self.maxpool1`
 - **Dropout**: `self.dropout1`
 
-### Layer 2
+### Block 2
 - **Convolutional layer**: `self.conv2_1`
 - **ReLU activation**: `self.relu2_1`
 - **Batch normalization**: `self.bn2_1`
@@ -31,7 +31,7 @@ The neural network consists of 7 layers.
 - **Max pooling**: `self.maxpool2`
 - **Dropout**: `self.dropout2`
 
-### Layer 3
+### Block 3
 - **Convolutional layer**: `self.conv3_1`
 - **ReLU activation**: `self.relu3_1`
 - **Batch normalization**: `self.bn3_1`
@@ -42,39 +42,39 @@ The neural network consists of 7 layers.
 - **Convolutional layer**: `self.conv3_4`
 - **Dropout**: Used at the end
 
-### Layer 4
+### Layer 
 - **Average pooling**: `F.avg_pool2d`
 
-### Layer 5
+### Layer 
 - **Fully connected layer**: `self.fc`
 
-### Layer 6
+### Layer 
 - **Reshape**: `x.view(-1, 10)`
 
-### Layer 7
+### Layer 
 - **Log softmax activation**: `F.log_softmax`
 
 ## Explanation
 
-### Layer 1
+### Block 1
 This layer starts with three successive convolutional operations (`self.conv1_1`, `self.conv1_2`, `self.conv1_3`), each followed by a rectified linear unit (ReLU) activation function and batch normalization. These operations extract various features from the input images. The max pooling operation (`self.maxpool1`) reduces the spatial dimensions of the features while retaining the most important information. Dropout (`self.dropout1`) is applied to prevent overfitting by randomly setting a fraction of input units to zero during training.
 
-### Layer 2
+### Block 2
 Similar to Layer 1, this layer consists of three convolutional operations (`self.conv2_1`, `self.conv2_2`, `self.conv2_3`) followed by ReLU activation, batch normalization, max pooling, and dropout. These operations further extract and refine features from the previously processed data.
 
-### Layer 3
+### Block 3
 Layer 3 begins with two convolutional operations (`self.conv3_1`, `self.conv3_2`) followed by ReLU activation and batch normalization. However, in this layer, there is no batch normalization after the second convolution. Instead, a third convolutional operation (`self.conv3_3`) is applied directly after the second one. The final convolutional operation (`self.conv3_4`) does not have batch normalization and is followed by dropout.
 
-### Layer 4
+### Layer 
 An average pooling operation (`F.avg_pool2d`) is applied to the output of Layer 3. Average pooling reduces the spatial dimensions of the features to a single value, effectively summarizing the information across the entire feature map.
 
-### Layer 5
+### Layer 
 A fully connected layer (`self.fc`) is used to connect the output of the previous layer to the output classes. This layer performs a linear transformation on the input data, mapping it to the output space.
 
-### Layer 6
+### Layer 
 A reshape operation (`x.view(-1, 10)`) reshapes the output of the fully connected layer into the desired output shape, which typically corresponds to the number of classes in the classification task.
 
-### Layer 7
+### Layer 
 The final layer applies a log softmax activation (`F.log_softmax`) to the output of the previous layer. This activation function computes the logarithm of the softmax function, which normalizes the output into a probability distribution over the output classes.
 
 ## Additional Details
