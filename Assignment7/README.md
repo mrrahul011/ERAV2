@@ -72,3 +72,17 @@ This notebook contains the implementation of different models along with their a
 2. No overfitting
 3. Could reach 99.4 if further trained
 
+## MODEL_5.py
+
+### Target:
+1. Increase model capacity at the end (add layer after GAP)
+
+### Results
+1. Parameters: 8720
+2. Best Training Accuracy: 98.96
+3. Best Test Accuracy: 99.36
+
+### Analysis
+1. slightly under fit
+2. reached close to 99.4
+
