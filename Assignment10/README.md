@@ -17,8 +17,7 @@ The suggested learning rate (LR) for training is 2.31E-03.
 - LRMAX: 2.31E-03
 
 ## Network Architecture
-Input
-|
+
 |--> [Conv2d(3, 64, kernel_size=3, stride=1, padding=1)]
 |--> [BatchNorm2d(64)]
 |--> [ReLU(inplace=True)]
@@ -55,8 +54,8 @@ Input
 |--> [MaxPool2d(kernel_size=4, stride=4)]
 |--> [Flatten()]
 |--> [Linear(512, 10)]
-|
-Output
+|--> LogSoftmax
+
 
 
 ## Train and Test
