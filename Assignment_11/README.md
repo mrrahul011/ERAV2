@@ -48,3 +48,37 @@ This file contains utility functions to support training and testing.
 
 To run the code, download the [Assignment11.ipynb](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/Assignment11.ipynb) notebook. Then, run the notebook and all necessary modules will be automatically imported. Follow the instructions in the notebook for training and testing the model.
 
+
+
+## Model Summary
+
+ [here](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/output_files/model_summary.txt).
+
+## Training Logs
+
+ [here](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/output_files/training_output.txt).
+
+## Learning Rate Finder
+
+
+
+![Learning Rate Finder](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/output_files/lr.png)
+
+## Accuracy and Loss Plots
+
+
+
+![Accuracy and Loss Plots](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/output_files/result_plots.png)
+
+## Misclassified Images
+
+
+
+![Misclassified Images](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/output_files/missclassified_images.png)
+
+## Grad-CAM Images (Misclassified)
+
+
+
+![Grad-CAM Images](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_11/output_files/missclassified_gradcam.png)
+
