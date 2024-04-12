@@ -1,0 +1,104 @@
+Batch size: 128, Total epochs: 20
+
+
+Epoch 1
+  0%|          | 0/391 [00:00<?, ?it/s]/usr/lib/python3.10/multiprocessing/popen_fork.py:66: RuntimeWarning: os.fork() was called. os.fork() is incompatible with multithreaded code, and JAX is multithreaded, so this will likely lead to a deadlock.
+  self.pid = os.fork()
+Train: Loss=1.7195, Batch=390, Accuracy=31.73: 100%|██████████| 391/391 [00:43<00:00,  8.98it/s]
+Test set: Average loss: 0.0127,  Accuracy: 39.05%
+
+
+Epoch 2
+Train: Loss=1.4585, Batch=390, Accuracy=42.78: 100%|██████████| 391/391 [00:42<00:00,  9.31it/s]
+Test set: Average loss: 0.0108,  Accuracy: 49.93%
+
+
+Epoch 3
+Train: Loss=1.1966, Batch=390, Accuracy=49.58: 100%|██████████| 391/391 [00:42<00:00,  9.17it/s]
+Test set: Average loss: 0.0097,  Accuracy: 55.14%
+
+
+Epoch 4
+Train: Loss=1.1658, Batch=390, Accuracy=54.99: 100%|██████████| 391/391 [00:42<00:00,  9.25it/s]
+Test set: Average loss: 0.0089,  Accuracy: 60.56%
+
+
+Epoch 5
+Train: Loss=0.9871, Batch=390, Accuracy=59.56: 100%|██████████| 391/391 [00:42<00:00,  9.20it/s]
+Test set: Average loss: 0.0079,  Accuracy: 64.41%
+
+
+Epoch 6
+Train: Loss=0.8292, Batch=390, Accuracy=63.53: 100%|██████████| 391/391 [00:42<00:00,  9.22it/s]
+Test set: Average loss: 0.0076,  Accuracy: 65.85%
+
+
+Epoch 7
+Train: Loss=1.1107, Batch=390, Accuracy=66.87: 100%|██████████| 391/391 [00:42<00:00,  9.23it/s]
+Test set: Average loss: 0.0072,  Accuracy: 67.90%
+
+
+Epoch 8
+Train: Loss=0.6638, Batch=390, Accuracy=69.83: 100%|██████████| 391/391 [00:42<00:00,  9.25it/s]
+Test set: Average loss: 0.0064,  Accuracy: 71.74%
+
+
+Epoch 9
+Train: Loss=0.7682, Batch=390, Accuracy=72.31: 100%|██████████| 391/391 [00:42<00:00,  9.24it/s]
+Test set: Average loss: 0.0062,  Accuracy: 72.74%
+
+
+Epoch 10
+Train: Loss=0.6007, Batch=390, Accuracy=74.60: 100%|██████████| 391/391 [00:42<00:00,  9.23it/s]
+Test set: Average loss: 0.0066,  Accuracy: 73.05%
+
+
+Epoch 11
+Train: Loss=0.6838, Batch=390, Accuracy=76.36: 100%|██████████| 391/391 [00:42<00:00,  9.23it/s]
+Test set: Average loss: 0.0058,  Accuracy: 75.54%
+
+
+Epoch 12
+Train: Loss=0.6809, Batch=390, Accuracy=78.57: 100%|██████████| 391/391 [00:42<00:00,  9.21it/s]
+Test set: Average loss: 0.0057,  Accuracy: 76.64%
+
+
+Epoch 13
+Train: Loss=0.6251, Batch=390, Accuracy=80.05: 100%|██████████| 391/391 [00:42<00:00,  9.19it/s]
+Test set: Average loss: 0.0057,  Accuracy: 76.81%
+
+
+Epoch 14
+Train: Loss=0.2824, Batch=390, Accuracy=81.68: 100%|██████████| 391/391 [00:42<00:00,  9.19it/s]
+Test set: Average loss: 0.0055,  Accuracy: 78.05%
+
+
+Epoch 15
+Train: Loss=0.4243, Batch=390, Accuracy=83.26: 100%|██████████| 391/391 [00:42<00:00,  9.19it/s]
+Test set: Average loss: 0.0051,  Accuracy: 79.65%
+
+
+Epoch 16
+Train: Loss=0.3936, Batch=390, Accuracy=84.75: 100%|██████████| 391/391 [00:42<00:00,  9.18it/s]
+Test set: Average loss: 0.0054,  Accuracy: 79.08%
+
+
+Epoch 17
+Train: Loss=0.2487, Batch=390, Accuracy=85.88: 100%|██████████| 391/391 [00:42<00:00,  9.17it/s]
+Test set: Average loss: 0.0051,  Accuracy: 79.58%
+
+
+Epoch 18
+Train: Loss=0.4539, Batch=390, Accuracy=87.18: 100%|██████████| 391/391 [00:42<00:00,  9.16it/s]
+Test set: Average loss: 0.0059,  Accuracy: 78.25%
+
+
+Epoch 19
+Train: Loss=0.2501, Batch=390, Accuracy=88.20: 100%|██████████| 391/391 [00:42<00:00,  9.20it/s]
+Test set: Average loss: 0.0058,  Accuracy: 78.54%
+
+
+Epoch 20
+Train: Loss=0.3627, Batch=390, Accuracy=88.99: 100%|██████████| 391/391 [00:42<00:00,  9.20it/s]
+Test set: Average loss: 0.0058,  Accuracy: 79.09%
+
