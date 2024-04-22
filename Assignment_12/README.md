@@ -10,4 +10,18 @@ The notebook does the following:
   - copy the cloned repo to the desired path
   - download the pre-trained weights
   - train the model on a custom dataset
-  - inference 
+  - inference
+
+## Train Images
+
+[](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/train_batch0.png)
+
+## Training Logs
+
+ [here](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/training_log.txt).
+
+## Results
+
+![Result plots](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/results.png)
+
+## 
