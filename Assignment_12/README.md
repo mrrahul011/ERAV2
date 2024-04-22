@@ -14,7 +14,7 @@ The notebook does the following:
 
 ## Train Images
 
-[](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/train_batch0.png)
+![](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/train_batch0.png)
 
 ## Training Logs
 
