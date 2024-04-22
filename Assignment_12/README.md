@@ -22,9 +22,9 @@ The notebook does the following:
 
 ## Results (10 images)
 
-![1](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/10.JPEG)
+![1](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/10.JPEG)   ![2](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/14.JPEG)
 
-![2](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/14.JPEG)
+
 
 ![3](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/15.JPEG)
 
