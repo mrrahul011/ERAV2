@@ -20,8 +20,26 @@ The notebook does the following:
 
  [here](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/training_log.txt).
 
-## Results
+## Results (10 images)
 
-![Result plots](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/results.png)
+![1](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/10.JPEG)
+
+![2](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/14.JPEG)
+
+![3](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/15.JPEG)
+
+![4](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/21.JPEG)
+
+![5](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/36.JPEG)
+
+![6](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/66.JPEG)
+
+![7](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/70.JPEG)
+
+![8](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/77.JPEG)
+
+![9](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/89.JPEG)
+
+![10](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_12/output/91.JPEG)
 
 ## 
