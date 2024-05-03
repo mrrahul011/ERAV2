@@ -7,5 +7,5 @@ This repository contains code for training of resnet18 using pytorch-lightning
 
 ## Hugging Face app
 
-[here]([https://huggingface.co/spaces/mrrahul011/ERVAV2_A13]).
+[here](https://huggingface.co/spaces/mrrahul011/ERVAV2_A13).
 
