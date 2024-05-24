@@ -8,6 +8,10 @@ This repository contains code for training and testing YoloV9 using on custom da
 
 - [drone](https://huggingface.co/spaces/mrrahul011/ERAV2_S15_YoloV9)
 
+  # sample
+    ![](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_15/output/huggingface_sample.png)
+   
+
 ## Prediction result
 
 ![](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_15/output/val_batch0_pred.jpg)
