@@ -6,8 +6,7 @@ implement trasformers model from scratch and train it for english to italian tra
 - [Assignemnt17](https://github.com/mrrahul011/ERAV2/blob/main/Assignment17/Assignment17.ipynb)
 
 ## Training Log
-
-  ![](https://github.com/mrrahul011/ERAV2/blob/main/Assignment17/training_log.png)
+![](https://github.com/mrrahul011/ERAV2/blob/main/Assignment17/training_log.png)
 
 ## Mertics
 
