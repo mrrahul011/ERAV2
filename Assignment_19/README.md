@@ -1,4 +1,4 @@
-# Assignment: Train a GPT from Scratch
+# Assignment: Generate Shakespeare-like text
 
 **Reference:** "Let's build GPT: from scratch, in code, spelled out" by Andrej Karpathy. Watch the [video on YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2s).
 
@@ -21,3 +21,6 @@ This model file is used in the Gradio app and includes the necessary hyperparame
 ## Sample Gradio Output
 
 ![Gradio Output Sample](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_19/gradio_output_sample.png)
+
+## Huggingface app
+### [Shakespeare Text Generation](https://huggingface.co/spaces/mrrahul011/ERAV2_S19_babyGPT)
