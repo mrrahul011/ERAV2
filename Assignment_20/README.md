@@ -5,10 +5,10 @@
 - Malayalam input text [malayalam.txt](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_20/malayalam.txt)
   
   ## Compression
-  - vocab_size = 650
-  - tokens length: 1043456
-  - ids length: 176607
-  - compression ratio: 5.91X
+  - vocab_size = 5000
+  -tokens length: 1043456
+  -ids length: 88500
+  -compression ratio: 11.79X
 
 # Huggingface App
   - Implementation reference [Assignment20_gradio_app.ipynb](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_20/Assignment20_gradio_app.ipynb)
