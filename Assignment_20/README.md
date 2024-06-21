@@ -10,5 +10,5 @@
   - compression ratio: 5.91X
 
 # Huggingface App
-  - Implementation reference [](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_20/Assignment20_gradio_app.ipynb)
+  - Implementation reference [Assignment20_gradio_app.ipynb](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_20/Assignment20_gradio_app.ipynb)
   - App link [huggingface_app](https://huggingface.co/spaces/mrrahul011/ERAV2_A20)
