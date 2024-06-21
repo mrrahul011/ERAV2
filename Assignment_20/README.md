@@ -6,9 +6,9 @@
   
   ## Compression
   - vocab_size = 5000
-  -tokens length: 1043456
-  -ids length: 88500
-  -compression ratio: 11.79X
+  - tokens length: 1043456
+  - ids length: 88500
+  - compression ratio: 11.79X
 
 # Huggingface App
   - Implementation reference [Assignment20_gradio_app.ipynb](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_20/Assignment20_gradio_app.ipynb)
