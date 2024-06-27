@@ -1,5 +1,8 @@
 
-
+# Assignment:
+### [Assignment_21.ipynb](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_21/Assignment21.ipynb)
+[model_gpt2.py](https://github.com/mrrahul011/ERAV2/blob/main/Assignment_21/train_get2-9-speedup9.py) is called into the Assignment21.ipynb.
+The model was trained for 3200 steps on L4 gpu for around 45 minutes and reached a loss of 0.08447
 
 ## Gradio App
 
